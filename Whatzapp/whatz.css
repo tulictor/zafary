@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    border:5px solid rgb(189, 186, 186);
+    display: grid;
+    grid-template-columns: 30% 70%;
+    height: 100HV;
+   
+
+
+}
+main{
+    display: block;
+}
+
+aside{
+    border: 4px solid rgb(189, 186, 186);
+    border: 6px;
+}
+
+main{
+    border: 4px solid rgb(189, 186, 186);
+}
+
+header{
+    border: 3px solid rgb(189, 186, 186);
+    text-align: center;
+    padding: 23px;
+    background-color: rgb(189, 186, 186);
+}
+
+.lista-contactos{
+    border: 3px solid rgb(189, 186, 186);
+}
+
+.lista-contactos article {
+border: 2px solid white;
+display: grid;
+padding: 19px;
+text-align: center;
+}
+
+.aside123{
+    text-align: center;
+}
+
+.contenedor-msj{
+    border: 2px solid rgb(189, 186, 186);
+    height: 20px;
+}
+
+.contenedor-msj section {
+border: 2px solid rgb(189, 186, 186);
+display: grid;
+padding: 117px;
+height: 50px;
+}
+
+.contenedor-msj article {
+    border: 2px solid white;
+    padding: 24px;
+}
+
+.oli {
+    background-color: rgb(226, 224, 224);
+}
+.confondo {
+    padding: 24px;
+    height: 20px;
+    width: 500px;
+    border: white;
+    border-radius: 5px;
+}
+
+*::-webkit-input-placeholder {
+    padding: 24px;
+    font-size: 43px;
+    
+}
+.img {
+        width: 100px;
+        margin: 15px auto;
+        border-radius: 50px;
+}
+
+.img1 {
+    text-align: center;
+    width: 35px; height: 35px;
+    vertical-align: text-top;
+}
+
+.img2 {
+    text-align: center;
+    width: 35px; height: 27px;
+    vertical-align: text-top;
+}
+
+
+.img3 {
+    text-align: center;
+    width: 35px; height: 27px;
+    vertical-align: text-top;
+}
+
+
+.img4 {
+    text-align: center;
+    width: 35px; height: 27px;
+    vertical-align: text-top;
+}
+
+.img5 {
+    text-align: center;
+    width: 35px; height: 27px;
+    vertical-align: text-top;
+}
+
+.img6 {
+    text-align: center;
+    width: 35px; height: 27px;
+    vertical-align: text-top;
+}
