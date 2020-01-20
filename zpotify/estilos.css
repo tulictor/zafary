@@ -1,0 +1,41 @@
+body {
+    margin: 10px auto;
+    width: 600px;
+    height: 850px;
+    background: #F2FCFF;
+    border: 2px solid #C3F1FF;
+    border-radius: 30px;
+}
+h1 {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 38px;
+    color: #5AD2AE;
+}
+section {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+article {
+    display: grid;
+    width: 150px;
+    height: 150px;
+    margin: 5px auto;
+    background: #5AD2AE;
+    border: 1px solid #469F85;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+img {
+    width: 100px;
+    margin: 15px auto;
+    border-radius: 50px;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px auto;
+    color: white;
+    text-transform: uppercase;
+    font-family: Roboto;
+}
